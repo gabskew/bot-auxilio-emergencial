@@ -1,0 +1,14 @@
+{
+  "name": "bot-auxilio-emergencial",
+  "version": "1.0.0",
+  "description": "BOT para verificar a situação da solicitação do auxílio emergencial da CAIXA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Gabriel Teodoro",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
