@@ -2,7 +2,7 @@
 
 ### Instalação:  
 
-#### * É um pré-requisitos:  
+#### * Pré-requisitos:  
 
 ###### Você precisa ter o NodeJS e o NPM instalados. Para isso [clique aqui](https://nodejs.org/pt-br/)
 
