@@ -1,14 +1,14 @@
 # bot-auxilio-emergencial
 
-###### Uma sugestão minha é que coloquem o bot para iniciar junto com o sistema operacional, daí toda vez que ligarem o computador vão ter um resultado :D
+#### Uma sugestão minha é que coloquem o bot para iniciar junto com o sistema operacional, daí toda vez que ligarem o computador vão ter um resultado :D
 
 ### Instalação:  
 
 #### * Pré-requisitos:  
 
-###### Você precisa ter o NodeJS e o NPM instalados. Para isso [clique aqui](https://nodejs.org/pt-br/)
+##### Você precisa ter o NodeJS e o NPM instalados. Para isso [clique aqui](https://nodejs.org/pt-br/)
 
-##### No terminal, execute os seguintes comandos:
+#### No terminal, execute os seguintes comandos:
 
 _git clone https://github.com/gabskew/bot-auxilio-emergencial.git_  
 
