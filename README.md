@@ -16,8 +16,7 @@ _npm install_
 
 #### * Caso não possua o git CLI instalado, baixe o .zip:
 
-[_https://github.com/gabskew/bot-auxilio-emergencial/archive/master.zip_]
-(https://github.com/gabskew/bot-auxilio-emergencial/archive/master.zip)  
+_https://github.com/gabskew/bot-auxilio-emergencial/archive/master.zip_  
 
 ### Execução
 Após seguir os passos anteriores, execute:  
