@@ -1,5 +1,7 @@
 # bot-auxilio-emergencial
 
+###### Uma sugestão minha é que coloquem o bot para iniciar junto com o sistema operacional, daí toda vez que ligarem o computador vão ter um resultado :D
+
 ### Instalação:  
 
 #### * Pré-requisitos:  
@@ -21,4 +23,5 @@ _https://github.com/gabskew/bot-auxilio-emergencial/archive/master.zip_
 ### Execução
 Após seguir os passos anteriores, execute:  
 
-_npm start_
+_npm start_  
+
