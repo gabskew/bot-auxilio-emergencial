@@ -21,7 +21,7 @@ _npm install_
 _https://github.com/gabskew/bot-auxilio-emergencial/archive/master.zip_  
 
 ### Execução
-##### Após seguir os passos anteriores e PREENCHER O ARQUIVO data.js COM SEUS DADOS, execute:  
+##### Após seguir os passos anteriores e PREENCHER O ARQUIVO dados.js COM SEUS DADOS, execute:  
 
 _npm start_  
 
